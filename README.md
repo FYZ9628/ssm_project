@@ -1,6 +1,13 @@
 # ssm_project（ssm模板二）
 
-这是ssm项目模板，包括对书籍的增删改查。 项目的配置比较简单，实际在用的
+
+这是ssm项目模板，包括对书籍的增删改查。 
+
+
+ssm模板一：https://github.com/FYZ9628/ssmbuild2 项目的配置比较繁琐，只是记录一下，并没有用
+
+
+ssm模板二：https://github.com/FYZ9628/ssm_project 项目的配置比较简单，实际在用的
 
 # Vue SSM搭建一个简单的Demo前后端分离含增删改查(CRUD)、分页、批量功能
 ### 前言
