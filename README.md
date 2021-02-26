@@ -1,4 +1,4 @@
-# ssm_project
+# ssm_project（ssm模板二）
 
 这是ssm项目模板，包括对书籍的增删改查。 项目的配置比较简单，实际在用的
 
